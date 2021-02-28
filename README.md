@@ -2,7 +2,6 @@
 
 Parallel Programming Project by Using MPI 
 
-NUM_OF_PROCESSORS = P + 1
 * Windows (MPICH2)
 gcc -L"C:\Program Files (x86)\MPICH2\lib" -I"C:\Program Files (x86)\MPICH2\include"
 mpi_project.c -lmpi -o mpi_project.exe
